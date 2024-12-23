@@ -1,16 +1,16 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = ['6285773305337']
+global.owner = ['6285773305337'] //Ganti
 global.botName = 'Titanz Store' //Ganti
 global.ownerName = 'JF Dev' //Ganti
 global.sessionName = 'session-bot'
 
 global.user = 'justferi' // Daftar di https://j-f.cloud/api/wl/
 
-global.gold = 50000
-global.platinum = 100000
-global.vip = 300000
+global.gold = 50000 //Ganti kalo mau naik/turunin harga
+global.platinum = 100000 //Ganti kalo mau naik/turunin harga
+global.vip = 300000 //Ganti kalo mau naik/turunin harga
 
 // Untuk case 'pay'
 global.pay = `Untuk Pembayaran Silahkan Transfer ke Payment dibawah ini
@@ -28,7 +28,7 @@ Berani Kirim Bukti TF Palsu atau Bukti punya Orang lain
 Auto Kick Permanen!!`
 
 // Mongodb
-global.mongodb = "mongodb+srv://zopsgamingshop:zopsgamingshop@botdb.zpg5g.mongodb.net/?appName=botdb" //Ganti url databasemu
+global.mongodb = "mongodb+srv://" //Ganti url databasemu
 global.database = "tester" //Ganti sesuai nama databasemu
 
 
