@@ -30,7 +30,7 @@ Sebelum menyiapkan bot, pastikan Anda memiliki:
   [Klik di sini untuk menambahkan IP Anda](https://j-f.cloud/api/wl)
 
 ### TUTORIAL 
-- Pasang/Run Bot [Klik disini](https://www.youtube.com/watch?v=P6Z99nZ_C70)
+- Pasang/Run Bot [Klik disini](https://youtu.be/4KoJk-sbd4k?si=FOJyX5XegJWI3nHq)
 
 - Bikin Database MongoDB [Klik disini](https://www.youtube.com/watch?v=JtRUihD-TP4)
 
