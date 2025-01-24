@@ -1,6 +1,6 @@
 # Bot Topup WhatsApp Otomatis
 
-**Bot Topup Otomatis** adalah sebuah bot WhatsApp yang memungkinkan pengguna melakukan transaksi top-up langsung di dalam WhatsApp dengan mengintegrasikan [API JF Store](https://topup.j-f.cloud/api/docs). Bot ini mempermudah transaksi pembelian produk seperti diamonds game mobile, saldo prabayar, dan lainnya.
+**Bot Topup Otomatis** adalah sebuah bot WhatsApp yang memungkinkan pengguna melakukan transaksi top-up langsung di dalam WhatsApp dengan mengintegrasikan [API JF Store](https://jfstore.my.id/api/docs). Bot ini mempermudah transaksi pembelian produk seperti diamonds game mobile, saldo prabayar, dan lainnya.
 
 ## Fitur
 
@@ -10,9 +10,9 @@
 - **Registrasi Pengguna**: Registrasi sederhana dan harga berbasis peran sesuai dengan tingkatan pengguna (Bronze, Gold, Platinum, VIP).
 - **Dan masih banyak lagi.**
 
-## Integrasi dengan [JF Store](https://topup.j-f.cloud)
+## Integrasi dengan [JF Store](https://jfstore.my.id)
 
-Bot ini terintegrasi dengan layanan JF STORE, memungkinkan pengguna untuk berinteraksi dengan layanan top-up yang ditawarkan oleh [JF Store](https://topup.j-f.cloud). Integrasi ini mencakup:
+Bot ini terintegrasi dengan layanan JF STORE, memungkinkan pengguna untuk berinteraksi dengan layanan top-up yang ditawarkan oleh [JF Store](https://jfstore.my.id). Integrasi ini mencakup:
 
 - **Mengambil Informasi Produk**: Mendapatkan produk top-up yang tersedia beserta harganya.
 - **Mengirim Pesanan**: Mengirim pesanan produk digital melalui API JF Topup.
@@ -27,7 +27,7 @@ Sebelum menyiapkan bot, pastikan Anda memiliki:
 - [Node.js](https://nodejs.org/) yang sudah terinstall
 - Nomor WhatsApp untuk bot
 - **Alamat IP Anda harus di-whitelist** agar bot dapat beroperasi. Pastikan IP Anda sudah ditambahkan ke daftar yang diizinkan untuk mencegah akses yang tidak sah.
-  [Klik di sini untuk menambahkan IP Anda](https://j-f.cloud/api/wl)
+  [Klik di sini untuk menambahkan IP Anda](https://jfstore.my.id/api/wl)
 
 ### TUTORIAL 
 - Pasang/Run Bot [Klik disini](https://youtu.be/4KoJk-sbd4k?si=FOJyX5XegJWI3nHq)
